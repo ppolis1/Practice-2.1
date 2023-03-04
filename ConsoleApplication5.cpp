@@ -4,11 +4,7 @@
 #include <iomanip>
 #include <fstream>
 #include <Windows.h>
-#include <vector>
-#include <cmath>
-#include <fstream>
 #include <string>
-#include <algorithm>
 using namespace std;
 
 const int maxStud = 40;
